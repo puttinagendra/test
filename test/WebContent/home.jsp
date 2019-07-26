@@ -10,7 +10,7 @@
 <h4>
 Hi Folks!!
 
-Have a nice day
+Have a nice week end
 </h4>
 <body>
 
